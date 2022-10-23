@@ -64,7 +64,7 @@ p {
     background-position: center;
 }
 
-/* Styling for everything that falls within the main tag of the HTML document*/
+/* Styling for everything that falls within the main tag of the HTML document */
 
 .float-left {
     float: left;
@@ -106,6 +106,8 @@ p {
     font-size: 36px;
 }
 
+/* Styling for the section on the right side of the webpage */
+
 #benefits {
     margin-right: 20px;
     padding: 20px;
@@ -139,7 +141,7 @@ p {
     max-width: 150px;
 }
 
-
+/* Styling for the footer of the wepbage */
 
 #footer {
     padding: 30px;
